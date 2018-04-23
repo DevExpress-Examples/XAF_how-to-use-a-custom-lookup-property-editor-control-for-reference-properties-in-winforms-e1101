@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<BOModel>
+		<Class Name="WinSolution.Module.DomainObject1">
+			<Member Name="DomainObject2" PropertyEditorType="Dennis.DropDownEditorsModule.Win.MRULookupPropertyEditor" />
+		</Class>
+	</BOModel>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.3.4.5247" />
+		<SchemaModule Name="SystemModule" Version="8.3.4.5247" IsNewNode="True" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="8.3.4.5247" IsNewNode="True" />
+		<SchemaModule Name="ValidationModule" Version="8.3.4.5247" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.3.4.5247" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.Win.SystemModule.ChooseSkinController" Version="8.3.4.5247" IsNewNode="True" />
+	</SchemaModules>
+</Application>
