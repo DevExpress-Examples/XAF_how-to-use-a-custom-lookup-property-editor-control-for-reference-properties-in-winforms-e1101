@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [LookupPropertyEditorEx.cs](./CS/Dennis.Editors.Win/LookupPropertyEditorEx.cs) (VB: [LookupPropertyEditorEx.vb](./VB/Dennis.Editors.Win/LookupPropertyEditorEx.vb))
+<!-- default file list end -->
 # How to use a custom Lookup Property Editor control for reference properties in WinForms
 
 
